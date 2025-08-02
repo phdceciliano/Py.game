@@ -2,13 +2,10 @@ O repositório Py.game contém o código-fonte de um clássico Jogo da Cobrinha 
 
 🎮 Sobre o Jogo
 Objetivo: Controlar a cobra para coletar a comida e crescer sem colidir com as bordas ou consigo mesma.
-
 Tecnologia: Desenvolvido em Python com a biblioteca Pygame.
 
 Requisitos:
-
 Python 3.x
-
 Pygame
 LabEx
 
@@ -20,40 +17,36 @@ Copiar
 Editar
 git clone https://github.com/phdceciliano/Py.game.git
 cd Py.game
-Instale o Pygame:
 
+Instale o Pygame:
 bash
 Copiar
 Editar
 pip install pygame
-Execute o jogo:
 
+Execute o jogo:
 bash
 Copiar
 Editar
 python main.py
+
 🎮 Controles
 Setas direcionais: Controlam a direção da cobra.
-
 ESC: Encerra o jogo.
-YouTube
 
 📌 Estrutura do Repositório
 main.py: Código principal do jogo.
 
 README.md: Este arquivo com informações sobre o jogo.
 
-🚀 Melhorias Futuras
- Adicionar níveis de dificuldade.
+🚀 Possíveis Melhorias Futuras
+ - Adicionar níveis de dificuldade.
+ - Implementar um sistema de pontuação.
+ - Adicionar efeitos sonoros e música de fundo.
+ - Criar uma tela inicial e de game over.
 
- Implementar um sistema de pontuação.
 
- Adicionar efeitos sonoros e música de fundo.
-
- Criar uma tela inicial e de game over.
-
-📬 Contato
 Desenvolvedor: Pedro Henrique Ceciliano
 
-E-mail: phdceciliano@gmail.com
+
 
