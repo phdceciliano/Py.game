@@ -1,17 +1,17 @@
-O repositório Py.game contém o código-fonte de um clássico Jogo da Cobrinha (Snake Game) desenvolvido em Python utilizando a biblioteca Pygame. O objetivo do jogo é controlar a cobra para coletar comida e crescer o máximo possível sem colidir com as bordas ou consigo mesma.
+##🐍 Jogo da Cobrinha – Snake Game em Python
 
-🎮 *Sobre o Jogo*
-Objetivo: Controlar a cobra para coletar a comida e crescer sem colidir com as bordas ou consigo mesma.
-Tecnologia: Desenvolvido em Python com a biblioteca Pygame.
+Este é um clássico Jogo da Cobrinha (Snake Game) desenvolvido em Python utilizando a biblioteca Pygame.
+O objetivo é simples e viciante: controle a cobra, colete a comida e evite colisões!
 
-*Requisitos:*
-Python 3.x
-Pygame
-LabEx
+#🎮 Sobre o Jogo
+A cada alimento coletado, a cobra cresce.
+Se bater nas bordas ou no próprio corpo: game over!
+Pontuação aumenta conforme a cobra se alimenta.
+Este projeto é uma ótima forma de praticar lógica de programação, controle de eventos com teclado e manipulação de telas com Pygame.
 
-⚙️ Como Executar
+#⚙️ Como Executar
+
 Clone o repositório:
-
 bash
 Copiar
 Editar
@@ -30,23 +30,20 @@ Copiar
 Editar
 python main.py
 
-🎮 Controles
-Setas direcionais: Controlam a direção da cobra.
-ESC: Encerra o jogo.
+#🎮 Controles do Jogo
+Tecla	Ação
+Setas (↑ ↓ ← →)	Movimentar a cobra
+ESC	Encerra o jogo
 
-📌 Estrutura do Repositório
-main.py: Código principal do jogo.
+#Estrutura do Projeto
+main.py — Código principal do jogo
 
-README.md: Este arquivo com informações sobre o jogo.
+README.md — Este arquivo com informações do projeto
 
 🚀 Possíveis Melhorias Futuras
- - Adicionar níveis de dificuldade.
- - Implementar um sistema de pontuação.
- - Adicionar efeitos sonoros e música de fundo.
- - Criar uma tela inicial e de game over.
+Adicionar níveis de dificuldade
+Implementar sistema de pontuação
+Incluir efeitos sonoros e música de fundo
+Criar telas de menu e game over
 
-
-Desenvolvedor: Pedro Henrique Ceciliano
-
-
-
+Desenvolvido por Pedro Henrique Ceciliano
