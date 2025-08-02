@@ -29,8 +29,10 @@ Execute o jogo:
 python main.py
 
 📦 Estrutura do Projeto
-Py.game/
-main.py          # Código principal do jogo
+
+# Código principal do jogo
+main.py    
+# Documentação do projeto
 README.md        # Documentação do projeto
 
 
