@@ -23,22 +23,16 @@ O jogo termina se a cobra colidir com as bordas da tela ou consigo mesma.
    cd Py.game
    
 Instale as dependências (Pygame):
-Copiar
-Editar
 pip install pygame
 
 Execute o jogo:
-Copiar
-Editar
 python main.py
 
 📦 Estrutura do Projeto
-Copiar
-Editar
 Py.game/
-├── main.py          # Código principal do jogo
-├── README.md        # Documentação do projeto
-└── (outros arquivos opcionais)
+main.py          # Código principal do jogo
+README.md        # Documentação do projeto
+
 
 🚀 Funcionalidades Futuras
  Adicionar níveis de dificuldade
