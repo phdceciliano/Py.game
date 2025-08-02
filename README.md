@@ -35,11 +35,11 @@ README.md        # Documentação do projeto
 
 
 🚀 Funcionalidades Futuras
- Adicionar níveis de dificuldade
- Implementar sistema de pontuação persistente
- Inserir efeitos sonoros e música de fundo
- Criar telas de menu, pausa e game over
- Melhorar gráficos e animações
+-  Adicionar níveis de dificuldade
+-  Implementar sistema de pontuação persistente
+-  Inserir efeitos sonoros e música de fundo
+-  Criar telas de menu, pausa e game over
+-  Melhorar gráficos e animações
 
 📬 Contato
 Desenvolvido por Pedro Henrique Ceciliano
